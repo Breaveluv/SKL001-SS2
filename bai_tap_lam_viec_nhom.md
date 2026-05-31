@@ -47,7 +47,7 @@ Tóm lại, làm việc nhóm không chỉ giúp sinh viên hoàn thành tốt h
 ### Trải nghiệm cá nhân khi làm việc nhóm
 
 **Vai trò của tôi trong nhóm:**
-Trong học kỳ vừa qua, tôi tham gia một nhóm 4 người thực hiện đề tài nghiên cứu về hành vi tiêu dùng của sinh viên. Tôi đảm nhận vai trò **trưởng nhóm kiêm người phụ trách tổng hợp báo cáo**. Nhiệm vụ của tôi là phân công công việc cho từng thành viên, theo dõi tiến độ, và đảm bảo các phần nội dung được kết nối mạch lạc trong bài cuối.
+Trong học kỳ vừa qua, tôi tham gia một nhóm 6 người thực hiện đề tài nghiên cứu về hành vi tiêu dùng của sinh viên. Tôi đảm nhận vai trò **trưởng nhóm kiêm người phụ trách tổng hợp báo cáo**. Nhiệm vụ của tôi là phân công công việc cho từng thành viên, theo dõi tiến độ, và đảm bảo các phần nội dung được kết nối mạch lạc trong bài cuối.
 
 **Kết quả nhóm đạt được:**
 Nhóm hoàn thành báo cáo đúng hạn và được giảng viên đánh giá cao về tính logic và trình bày. Chúng tôi đạt điểm A cho bài tập nhóm này. Điều quan trọng hơn là cả nhóm cảm thấy hài lòng vì mỗi người đều được đóng góp theo đúng thế mạnh của mình.
@@ -57,13 +57,7 @@ Tôi nhận ra rằng vai trò trưởng nhóm không phải là người làm n
 
 ---
 
-## TIÊU CHÍ ĐÁNH GIÁ
 
-| Tiêu chí | Mô tả | Tỷ lệ |
-|---|---|---|
-| Hiểu nội dung | Trả lời đúng, đủ ý | 30% |
-| Lập luận | Logic, có dẫn chứng | 30% |
-| Liên hệ thực tế | Cụ thể, chân thực | 20% |
 | Trình bày | Rõ ràng, sạch đẹp | 20% |
 
 ---

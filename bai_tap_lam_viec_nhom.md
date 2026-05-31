@@ -58,8 +58,4 @@ Tôi nhận ra rằng vai trò trưởng nhóm không phải là người làm n
 ---
 
 
-| Trình bày | Rõ ràng, sạch đẹp | 20% |
 
----
-
-*Tổng điểm: 100%*
